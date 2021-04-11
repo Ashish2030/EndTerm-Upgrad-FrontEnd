@@ -1,0 +1,48 @@
+.a
+{
+    margin: 1%;
+    
+}
+input[type=submit]
+{
+    background-color: blue;
+    color: black;
+    width: 65px;
+    height: 26px;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+#submit:hover
+{
+    cursor: pointer;
+}
+body{
+    background-image:url(background/m.jpg);
+       background-position: center;
+       background-attachment: fixed;
+       background-size: cover;
+        background-repeat: no-repeat;
+  color: var(--text_dark);
+  padding: 70px;
+}
+#add
+{
+    padding: 10px;
+    margin: auto;
+  width: 28%;
+  color: white;
+  background-color: blue;
+  margin-bottom: 20px;
+  border: 2px solid black;
+}
+@media screen and (max-width: 400px) {
+    .a
+{
+    margin: 1%;
+    
+}
+  }
+
+
+  
+  
