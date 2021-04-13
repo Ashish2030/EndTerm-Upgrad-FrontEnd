@@ -8,8 +8,7 @@ EndTerm-Upgrad-FrontEnd/fork" target="blank">
 
 
 <p align="center">
-   <img src="https://img.shields.io/github/forks/ashish2030/
-EndTerm-Upgrad-FrontEnd?style=flat-square" alt="Todo-List_Rest_API forks"/>
+   <img src="https://img.shields.io/github/forks/ashish2030/EndTerm-Upgrad-FrontEnd?style=flat-square" alt="Todo-List_Rest_API forks"/>
 </a>
 <a href="https://github.com/ashish2030/EndTerm-Upgrad-FrontEnd/stargazers" target="blank">
 <img src="https://img.shields.io/github/stars/ashish2030/EndTerm-Upgrad-FrontEnd?style=flat-square" alt="EndTerm-Upgrad-FrontEnd"/>
