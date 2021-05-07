@@ -17,7 +17,11 @@
 </a>
   </p>
   
-https://user-images.githubusercontent.com/61516051/117406716-11adf600-af2b-11eb-9be8-a0efaafb4fcc.mp4
+ [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/EndTerm-Upgrad-FrontEnd)](https://github.com/ashish2030/EndTerm-Upgrad-FrontEnd/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/EndTerm-Upgrad-FrontEnd)](https://github.com/ashish2030/EndTerm-Upgrad-FrontEnd/archive/master.zip)
+
+  
+https://user-images.githubusercontent.com/61516051/117481386-8f502100-af80-11eb-976c-23190098a37f.mp4
 <p align="center">
     <a href="https://ashish2030.github.io/EndTerm-Upgrad-FrontEnd/" target="blank">View Demo</a>
     ·
